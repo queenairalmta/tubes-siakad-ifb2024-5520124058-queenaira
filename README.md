@@ -21,11 +21,13 @@ Aplikasi ini mensimulasikan SIAKAD yang digunakan untuk mengelola data Dosen, Ma
 - Role    : Semua
 - Fungsi  : Autentikasi pengguna ke sistem
 
+---
 
 - Halaman : Dashboard Admin
 - Role    : Admin
 - Fungsi  : Ringkasan jumlah data dosen, mahasiswa, mata kuliah, jadwal
 
+---
 
 - Halaman : Data Dosen
 - Role    : Admin
