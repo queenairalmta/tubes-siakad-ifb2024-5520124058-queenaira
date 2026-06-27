@@ -33,31 +33,37 @@ Aplikasi ini mensimulasikan SIAKAD yang digunakan untuk mengelola data Dosen, Ma
 - Role    : Admin
 - Fungsi  : CRUD data dosen
 
+---
 
 - Halaman : Data Mahasiswa
 - Role    : Admin
 - Fungsi  : CRUD data mahasiswa, termasuk penentuan dosen wali
 
+---
 
 - Halaman : Data Mata Kuliah
 - Role    : Admin
 - Fungsi  : CRUD data mata kuliah dan SKS
 
+---
 
 - Halaman : Data Jadwal
 - Role    : Admin
 - Fungsi  : CRUD jadwal perkuliahan (relasi dosen & mata kuliah, penentuan hari/jam/kelas)
 
+---
 
 - Halaman : Dashboard Mahasiswa
 - Role    : Mahasiswa
 - Fungsi  : Info profil mahasiswa & menu cepat
 
+---
 
 - Halaman : Jadwal Perkuliahan
 - Role    : Mahasiswa
 - Fungsi  : Melihat seluruh jadwal kuliah yang tersedia
 
+---
 
 - Halaman : KRS
 - Role    : Mahasiswa
